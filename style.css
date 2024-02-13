@@ -58,7 +58,7 @@ label{
 input{
     width: -webkit-fill-available;
     background: transparent;
-    color: black;
+    color: rgb(70, 0, 0);
     font-size: 0.8rem;
     font-weight: 500;
     outline: 2px solid rgb(12, 13, 14);
